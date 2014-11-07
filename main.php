@@ -1,41 +1,37 @@
-<html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>Producerta</title>
-<style type="text/css">
-#bg {
-    position:absolute;
-    width:100%;
-    height:100%;
-    z-index:-1;
-    left: 0;
-    top: 0;
-}
-</style>
-</head>
-<body style="color:#0A0AAA;font-variant:small-caps;font: italic bold 30px arial, sans-serif;">
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<table align="center" border="0">
-<tr>
-<td align="center"><img  id="bg" src="cagri.jpg" /></td>
-</tr>
-<tr>
-<td align="center"><h1>contato@producerta.agr.br</h1></td>
-</tr>
-<tr>
-
-</tr>
-<tr>
-<td align="center"><h1>Producerta</h1></td>
-</tr>
-<tr>
-<td align="center"><h2>Pitanga-PR</h2></td>
-</tr>
-<tr>
-<td align="center"><b>Site em manutenção</b></td>
-</tr>
-</table>
-</body>
-</html>
+<?php
+require_once 'adm/dao/visitaSave.php';
+include("url_response.php");
+$urlpatterns = array(
+    "/main.php" => "index.php",
+    "/main" => "index.php",
+    "/site" => "index.php", 
+    "/" => "index.php",
+    "" => "index.php",
+    "/empresa.php" => "index.php",
+    "/index" => "index.php",
+    "/blog(?P<post>\d+)" => "blog.php",
+    "/blog" => "blog.php",
+    "/vendas" => "vendas.php",
+    "/contato" => "contato.php",
+    "/solucao/agronegocio" => "solucao/agronegocio.php",
+    "/solucao/comercio" => "solucao/comercio.php",
+    "/solucao/industria" => "solucao/industria.php",
+    "/missao" => "empresa/missao.php",
+    "/visao" => "empresa/visao.php",
+    "/sobre" => "empresa/sobre.php",
+    "/valores" => "empresa/valores.php",
+    "/regiao-de-atuacao" => "empresa/regiaoatuacao.php",
+    "/foco-de-atuacao" => "empresa/focoatuacao.php",
+    "/trabalhe-conosco" => "empresa/trabalheconosco.php",
+    "/vendas" => "vendas.php",
+    "/servicos/implantacao" => "servicos/implantacao.php",
+    "/servicos/assessoria" => "servicos/assessoria.php",
+    "/servicos/customizacao" => "servicos/customizacao.php",
+    "/servicos/suporte-tecnico" => "servicos/suportetecnico.php",
+    "/servicos/treinamento" => "servicos/treinamento.php"
+    
+//    "/noticias" => "noticias.php",
+//    "/noticia/(?P<id_noticia>\d+)" => "noticias.php",
+);
+url_response($urlpatterns);
+?>
