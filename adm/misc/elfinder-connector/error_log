@@ -1,0 +1,2 @@
+[08-Feb-2014 13:37:53] PHP Fatal error:  Class 'elFinderVolumeDriver' not found in /home/neaxt783/public_html/agroexata.com/adm/misc/elfinder-connector/elFinderVolumeMySQL.class.php on line 8
+[08-Feb-2014 13:37:53] PHP Fatal error:  Class 'elFinderVolumeDriver' not found in /home/neaxt783/public_html/agroexata.com/adm/misc/elfinder-connector/elFinderVolumeLocalFileSystem.class.php on line 9

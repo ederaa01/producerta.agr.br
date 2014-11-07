@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+
+
+
+
+<Instances>
+
+	
+
+	<RelatorioEstoq><cdProduto>5</cdProduto><dsProduto>MICROSOY MASTER NK PCT 5 KG</dsProduto><entreFutura>37,000</entreFutura><indice>5</indice><nrProcesso>4028</nrProcesso><perMargem>77,08</perMargem><qtCompra>0,000</qtCompra><qtEstoque>60,000</qtEstoque><qtVenda>327,000</qtVenda><saldo>-304,000</saldo><vlCusto>22,9156</vlCusto><vlUnitario>100,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18</cdProduto><dsProduto>A.FH NITRO MAIS SC DE 50 KG</dsProduto><entreFutura>12,000</entreFutura><indice>18</indice><nrProcesso>4028</nrProcesso><perMargem>11,28</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>10,000</qtVenda><saldo>-22,000</saldo><vlCusto>62,1016</vlCusto><vlUnitario>70,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>218</cdProduto><dsProduto>MICROSOY MANGANES GL 5 LT</dsProduto><entreFutura>2,000</entreFutura><indice>218</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-2,000</saldo><vlCusto>36,4327</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>220</cdProduto><dsProduto>MICROSOY CAB 2 BLD 20 LT</dsProduto><entreFutura>1,000</entreFutura><indice>220</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-1,000</saldo><vlCusto>130,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>224</cdProduto><dsProduto>MICROSOY MICRON JET</dsProduto><entreFutura>0,000</entreFutura><indice>224</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>79,000</qtEstoque><qtVenda>233,000</qtVenda><saldo>-154,000</saldo><vlCusto>54,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>229</cdProduto><dsProduto>SEM. MILHO PIONEER 30F53</dsProduto><entreFutura>270,000</entreFutura><indice>229</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-270,000</saldo><vlCusto>352,9000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>240</cdProduto><dsProduto>INTREPID 240 SC LT</dsProduto><entreFutura>0,000</entreFutura><indice>240</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>500,000</qtEstoque><qtVenda>1.010,000</qtVenda><saldo>-510,000</saldo><vlCusto>72,7100</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>256</cdProduto><dsProduto>MICROSOY FX 30-20 GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>256</indice><nrProcesso>4028</nrProcesso><perMargem>93,85</perMargem><qtCompra>0,000</qtCompra><qtEstoque>81,000</qtEstoque><qtVenda>183,000</qtVenda><saldo>-102,000</saldo><vlCusto>12,3045</vlCusto><vlUnitario>200,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>287</cdProduto><dsProduto>PRIORI GL 5 LT</dsProduto><entreFutura>19,000</entreFutura><indice>287</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>54,000</qtVenda><saldo>-73,000</saldo><vlCusto>374,0600</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>407</cdProduto><dsProduto>GESSO IN NATURA AGRICOLA</dsProduto><entreFutura>250.000,000</entreFutura><indice>407</indice><nrProcesso>4028</nrProcesso><perMargem>98,73</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>110.000,000</qtVenda><saldo>-360.000,000</saldo><vlCusto>0,1270</vlCusto><vlUnitario>10,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>440</cdProduto><dsProduto>VITAVAX-THIRAN GL 05 LT</dsProduto><entreFutura>0,000</entreFutura><indice>440</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>7,000</qtEstoque><qtVenda>8,000</qtVenda><saldo>-1,000</saldo><vlCusto>125,8992</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>506</cdProduto><dsProduto>SEM. MILHO BALU 184 S1</dsProduto><entreFutura>0,000</entreFutura><indice>506</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>2,000</qtEstoque><qtVenda>7,000</qtVenda><saldo>-5,000</saldo><vlCusto>147,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>543</cdProduto><dsProduto>SEM T FISC CD 104 40KG</dsProduto><entreFutura>60,000</entreFutura><indice>543</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-60,000</saldo><vlCusto>52,9446</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>551</cdProduto><dsProduto>ARTEA LT</dsProduto><entreFutura>38,000</entreFutura><indice>551</indice><nrProcesso>4028</nrProcesso><perMargem>16,80</perMargem><qtCompra>0,000</qtCompra><qtEstoque>34,000</qtEstoque><qtVenda>6,000</qtVenda><saldo>-10,000</saldo><vlCusto>62,3982</vlCusto><vlUnitario>75,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>561</cdProduto><dsProduto>SEM. SOJA BRS 184 CONVENCIONAL PEN:6.5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>561</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>106,000</qtVenda><saldo>-106,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>578</cdProduto><dsProduto>SANSON 40 SC LT</dsProduto><entreFutura>24,000</entreFutura><indice>578</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>6,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-18,000</saldo><vlCusto>46,1700</vlCusto><vlUnitario>45,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>582</cdProduto><dsProduto>GAMIT BLD 20 LT</dsProduto><entreFutura>0,000</entreFutura><indice>582</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>1,000</qtVenda><saldo>-1,000</saldo><vlCusto>3.364,9500</vlCusto><vlUnitario>0,0001</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>592</cdProduto><dsProduto>STANDAK TOP LT</dsProduto><entreFutura>0,000</entreFutura><indice>592</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>9,000</qtEstoque><qtVenda>10,000</qtVenda><saldo>-1,000</saldo><vlCusto>370,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>623</cdProduto><dsProduto>COBRE ATAR BR PCT 3 KG</dsProduto><entreFutura>43,000</entreFutura><indice>623</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>10,000</qtEstoque><qtVenda>36,000</qtVenda><saldo>-69,000</saldo><vlCusto>51,6343</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>634</cdProduto><dsProduto>A.02.20.18 HERINGER BAG</dsProduto><entreFutura>120,000</entreFutura><indice>634</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>407,000</qtVenda><saldo>-527,000</saldo><vlCusto>935,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>695</cdProduto><dsProduto>FENIX GL 05 LT</dsProduto><entreFutura>7,000</entreFutura><indice>695</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>6,000</qtEstoque><qtVenda>7,000</qtVenda><saldo>-8,000</saldo><vlCusto>121,8982</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>733</cdProduto><dsProduto>A.08.20.20 HERINGER BAG</dsProduto><entreFutura>1,000</entreFutura><indice>733</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-1,000</saldo><vlCusto>1.085,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>754</cdProduto><dsProduto>PRIORI XTRA GL 05 LT</dsProduto><entreFutura>12,000</entreFutura><indice>754</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>37,000</qtVenda><saldo>-49,000</saldo><vlCusto>526,8726</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>783</cdProduto><dsProduto>GALGOTRIN GL DE 5 LT</dsProduto><entreFutura>5,000</entreFutura><indice>783</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-5,000</saldo><vlCusto>68,5771</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>801</cdProduto><dsProduto>SIMBIOSE NOD AXION PLUZ AZ PCT 20DS</dsProduto><entreFutura>0,000</entreFutura><indice>801</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>2,000</qtVenda><saldo>-2,000</saldo><vlCusto>0,0100</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1002</cdProduto><dsProduto>A.02.20.18+MICRO HERINGER BAG</dsProduto><entreFutura>0,000</entreFutura><indice>1002</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>8,000</qtVenda><saldo>-8,000</saldo><vlCusto>1.100,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1021</cdProduto><dsProduto>A.KCL HERINGER BAG</dsProduto><entreFutura>42,000</entreFutura><indice>1021</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>14,000</qtVenda><saldo>-56,000</saldo><vlCusto>1.230,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1025</cdProduto><dsProduto>A.00.28.00 HERINGER SC 50 KG</dsProduto><entreFutura>0,000</entreFutura><indice>1025</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>91,000</qtVenda><saldo>-91,000</saldo><vlCusto>44,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1031</cdProduto><dsProduto>A.FH NITRO MAIS BAG</dsProduto><entreFutura>37,000</entreFutura><indice>1031</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-37,000</saldo><vlCusto>1.259,5405</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1404</cdProduto><dsProduto>HUSSAR FRASCO 600 GR.</dsProduto><entreFutura>0,000</entreFutura><indice>1404</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>30,000</qtVenda><saldo>-30,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1627</cdProduto><dsProduto>SEM. SOJA IGRA 628 RR P 5,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>1627</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>20,000</qtVenda><saldo>-20,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1813</cdProduto><dsProduto>ROUNDUP TRANSORB R BLD</dsProduto><entreFutura>16,000</entreFutura><indice>1813</indice><nrProcesso>4028</nrProcesso><perMargem>79,96</perMargem><qtCompra>0,000</qtCompra><qtEstoque>9,000</qtEstoque><qtVenda>47,000</qtVenda><saldo>-54,000</saldo><vlCusto>80,1719</vlCusto><vlUnitario>400,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>1814</cdProduto><dsProduto>ROUNDUP ORIGINAL BLD</dsProduto><entreFutura>89,000</entreFutura><indice>1814</indice><nrProcesso>4028</nrProcesso><perMargem>33,83</perMargem><qtCompra>0,000</qtCompra><qtEstoque>2,000</qtEstoque><qtVenda>231,000</qtVenda><saldo>-318,000</saldo><vlCusto>198,5002</vlCusto><vlUnitario>300,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>2132</cdProduto><dsProduto>CERCOBIN 500 SC GL 06 LT</dsProduto><entreFutura>18,000</entreFutura><indice>2132</indice><nrProcesso>4028</nrProcesso><perMargem>70,46</perMargem><qtCompra>0,000</qtCompra><qtEstoque>13,000</qtEstoque><qtVenda>33,000</qtVenda><saldo>-38,000</saldo><vlCusto>53,1643</vlCusto><vlUnitario>180,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>2300</cdProduto><dsProduto>VITAVAX-THIRAN 200 SC 01 LT</dsProduto><entreFutura>4,000</entreFutura><indice>2300</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-4,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>2373</cdProduto><dsProduto>ORTHENE 750 BR PCT 3 KG</dsProduto><entreFutura>0,000</entreFutura><indice>2373</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>12,000</qtVenda><saldo>-12,000</saldo><vlCusto>56,8600</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>3175</cdProduto><dsProduto>AMINOL 806 BLD 20 LT</dsProduto><entreFutura>1,000</entreFutura><indice>3175</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-1,000</saldo><vlCusto>150,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>4171</cdProduto><dsProduto>DIMILIN PCT 500 GR</dsProduto><entreFutura>1,000</entreFutura><indice>4171</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-1,000</saldo><vlCusto>27,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>4405</cdProduto><dsProduto>NOMOLT 150 01 LT</dsProduto><entreFutura>20,000</entreFutura><indice>4405</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>39,000</qtVenda><saldo>-59,000</saldo><vlCusto>87,9429</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>5111</cdProduto><dsProduto>PLATINUM NEO LT</dsProduto><entreFutura>250,000</entreFutura><indice>5111</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>191,000</qtEstoque><qtVenda>235,000</qtVenda><saldo>-294,000</saldo><vlCusto>107,0518</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>5556</cdProduto><dsProduto>A.00.20.00 HERINGER SC 50 KG</dsProduto><entreFutura>21,000</entreFutura><indice>5556</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-21,000</saldo><vlCusto>28,5000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>5992</cdProduto><dsProduto>POQUER LT</dsProduto><entreFutura>0,000</entreFutura><indice>5992</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>117,000</qtVenda><saldo>-117,000</saldo><vlCusto>72,5960</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>6100</cdProduto><dsProduto>IHAROL GL 6 LT</dsProduto><entreFutura>14,000</entreFutura><indice>6100</indice><nrProcesso>4028</nrProcesso><perMargem>27,77</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>6,000</qtVenda><saldo>-20,000</saldo><vlCusto>43,3407</vlCusto><vlUnitario>60,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>6228</cdProduto><dsProduto>AUGE GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>6228</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>3,000</qtEstoque><qtVenda>13,000</qtVenda><saldo>-10,000</saldo><vlCusto>102,9166</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>7006</cdProduto><dsProduto>SEM. MILHO AGROESTE 1656 VTPRO 2 RR</dsProduto><entreFutura>0,000</entreFutura><indice>7006</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>10,000</qtVenda><saldo>-10,000</saldo><vlCusto>18,8739</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>8811</cdProduto><dsProduto>TINO GL 5 LT</dsProduto><entreFutura>9,000</entreFutura><indice>8811</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>2,000</qtEstoque><qtVenda>2,000</qtVenda><saldo>-9,000</saldo><vlCusto>317,4101</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>9210</cdProduto><dsProduto>ABACUS HC GL 5 LT</dsProduto><entreFutura>2,000</entreFutura><indice>9210</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-2,000</saldo><vlCusto>631,4000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>14800</cdProduto><dsProduto>A.00.18.00 HERINGER SC 50 KG</dsProduto><entreFutura>0,000</entreFutura><indice>14800</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>213,000</qtEstoque><qtVenda>432,000</qtVenda><saldo>-219,000</saldo><vlCusto>55,3333</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>15081</cdProduto><dsProduto>LABRADOR 304 SL BLD 20 LT</dsProduto><entreFutura>0,000</entreFutura><indice>15081</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>25,000</qtEstoque><qtVenda>30,000</qtVenda><saldo>-5,000</saldo><vlCusto>360,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>17728</cdProduto><dsProduto>A.UREIA SC HERINGER</dsProduto><entreFutura>28,000</entreFutura><indice>17728</indice><nrProcesso>4028</nrProcesso><perMargem>27,95</perMargem><qtCompra>0,000</qtCompra><qtEstoque>19,000</qtEstoque><qtVenda>127,000</qtVenda><saldo>-136,000</saldo><vlCusto>57,6400</vlCusto><vlUnitario>80,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18101</cdProduto><dsProduto>SEM. SOJA INT 6201 RR P: 5.5 SCS 40KG</dsProduto><entreFutura>0,000</entreFutura><indice>18101</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>60,000</qtVenda><saldo>-60,000</saldo><vlCusto>72,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18108</cdProduto><dsProduto>MICROSOY PH RED TRIUNFO LT</dsProduto><entreFutura>0,000</entreFutura><indice>18108</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>61,000</qtEstoque><qtVenda>66,000</qtVenda><saldo>-5,000</saldo><vlCusto>49,7105</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18110</cdProduto><dsProduto>STIMU CONTROL TS 1 LT</dsProduto><entreFutura>3,000</entreFutura><indice>18110</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-3,000</saldo><vlCusto>143,0034</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18111</cdProduto><dsProduto>STIMUCONTROL TS 2 LT</dsProduto><entreFutura>0,000</entreFutura><indice>18111</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>37,000</qtVenda><saldo>-37,000</saldo><vlCusto>320,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18120</cdProduto><dsProduto>U46-D FLUID 2,4-D</dsProduto><entreFutura>1,000</entreFutura><indice>18120</indice><nrProcesso>4028</nrProcesso><perMargem>44,14</perMargem><qtCompra>0,000</qtCompra><qtEstoque>2,000</qtEstoque><qtVenda>17,000</qtVenda><saldo>-16,000</saldo><vlCusto>167,5720</vlCusto><vlUnitario>300,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18122</cdProduto><dsProduto>TOPIK 240 EC LT</dsProduto><entreFutura>4,000</entreFutura><indice>18122</indice><nrProcesso>4028</nrProcesso><perMargem>21,92</perMargem><qtCompra>0,000</qtCompra><qtEstoque>11,000</qtEstoque><qtVenda>13,000</qtVenda><saldo>-6,000</saldo><vlCusto>265,4727</vlCusto><vlUnitario>340,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18130</cdProduto><dsProduto>PREND-D 806 BLD 20 LT</dsProduto><entreFutura>28,000</entreFutura><indice>18130</indice><nrProcesso>4028</nrProcesso><perMargem>21,26</perMargem><qtCompra>0,000</qtCompra><qtEstoque>1,000</qtEstoque><qtVenda>137,000</qtVenda><saldo>-164,000</saldo><vlCusto>200,0000</vlCusto><vlUnitario>254,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18202</cdProduto><dsProduto>ACEFATO FERSOL 750 SP PCT 5 KG</dsProduto><entreFutura>0,000</entreFutura><indice>18202</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>250,000</qtVenda><saldo>-250,000</saldo><vlCusto>138,5000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18243</cdProduto><dsProduto>GLIFOSATO STINGER BLD 20LT</dsProduto><entreFutura>30,000</entreFutura><indice>18243</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>26,000</qtEstoque><qtVenda>169,000</qtVenda><saldo>-173,000</saldo><vlCusto>213,3547</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18261</cdProduto><dsProduto>SAFETY CE LT</dsProduto><entreFutura>37,000</entreFutura><indice>18261</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>120,000</qtCompra><qtEstoque>131,000</qtEstoque><qtVenda>288,000</qtVenda><saldo>-74,000</saldo><vlCusto>50,5860</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18290</cdProduto><dsProduto>RASS 32 LT</dsProduto><entreFutura>0,000</entreFutura><indice>18290</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>14,000</qtVenda><saldo>-14,000</saldo><vlCusto>32,9157</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18299</cdProduto><dsProduto>ZAPHIR GL 05 LT</dsProduto><entreFutura>0,000</entreFutura><indice>18299</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>18,000</qtVenda><saldo>-18,000</saldo><vlCusto>150,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18304</cdProduto><dsProduto>SEM. MILHO AGROESTE 1590 Y SC</dsProduto><entreFutura>6,000</entreFutura><indice>18304</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>1,000</qtEstoque><qtVenda>9,000</qtVenda><saldo>-14,000</saldo><vlCusto>171,9173</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18352</cdProduto><dsProduto>SEM. SOJA BMX D.MARIO MAGNA 7.0 RR P-6,5  40KG</dsProduto><entreFutura>0,000</entreFutura><indice>18352</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>640,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>712,000</qtVenda><saldo>-72,000</saldo><vlCusto>55,4286</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18353</cdProduto><dsProduto>TWISTER FR 300 GR</dsProduto><entreFutura>253,000</entreFutura><indice>18353</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>659,000</qtEstoque><qtVenda>523,000</qtVenda><saldo>-117,000</saldo><vlCusto>15,9036</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18386</cdProduto><dsProduto>WARRANT PCT 500GR</dsProduto><entreFutura>728,000</entreFutura><indice>18386</indice><nrProcesso>4028</nrProcesso><perMargem>71,18</perMargem><qtCompra>4.000,000</qtCompra><qtEstoque>535,000</qtEstoque><qtVenda>5.018,000</qtVenda><saldo>-1.211,000</saldo><vlCusto>43,2369</vlCusto><vlUnitario>150,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18398</cdProduto><dsProduto>A.10.15.15  HERINGER SC 50KG</dsProduto><entreFutura>35,000</entreFutura><indice>18398</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-35,000</saldo><vlCusto>50,8700</vlCusto><vlUnitario>1,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18410</cdProduto><dsProduto>ATRAZINA ATANOR  BD 20 LT</dsProduto><entreFutura>53,000</entreFutura><indice>18410</indice><nrProcesso>4028</nrProcesso><perMargem>12,49</perMargem><qtCompra>0,000</qtCompra><qtEstoque>48,000</qtEstoque><qtVenda>15,000</qtVenda><saldo>-20,000</saldo><vlCusto>192,5317</vlCusto><vlUnitario>220,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18411</cdProduto><dsProduto>NOVAZIN 500 SC GL 05 LT</dsProduto><entreFutura>0,000</entreFutura><indice>18411</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>3,000</qtEstoque><qtVenda>12,000</qtVenda><saldo>-9,000</saldo><vlCusto>150,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18415</cdProduto><dsProduto>ACCURATE 600 WG PCT 10 GR</dsProduto><entreFutura>204,000</entreFutura><indice>18415</indice><nrProcesso>4028</nrProcesso><perMargem>60,20</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>36,000</qtVenda><saldo>-240,000</saldo><vlCusto>3,3433</vlCusto><vlUnitario>8,4000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18435</cdProduto><dsProduto>RIZA 200 EC LT</dsProduto><entreFutura>8,000</entreFutura><indice>18435</indice><nrProcesso>4028</nrProcesso><perMargem>82,95</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-8,000</saldo><vlCusto>20,4608</vlCusto><vlUnitario>120,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18436</cdProduto><dsProduto>RIZA 200 EC GL 05 LT</dsProduto><entreFutura>29,000</entreFutura><indice>18436</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>9,000</qtVenda><saldo>-38,000</saldo><vlCusto>102,3500</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>18501</cdProduto><dsProduto>CALLISTO GL 5 LT</dsProduto><entreFutura>11,000</entreFutura><indice>18501</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-11,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19003</cdProduto><dsProduto>PARADOX BD 20 LT</dsProduto><entreFutura>10,000</entreFutura><indice>19003</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>19,000</qtVenda><saldo>-29,000</saldo><vlCusto>300,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19004</cdProduto><dsProduto>SIMBIOSE NOD SOJA LIQ. 30 DS</dsProduto><entreFutura>12,000</entreFutura><indice>19004</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>204,000</qtEstoque><qtVenda>206,000</qtVenda><saldo>-14,000</saldo><vlCusto>48,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19008</cdProduto><dsProduto>SEM. MILHO AGROESTE 1578 - YG</dsProduto><entreFutura>0,000</entreFutura><indice>19008</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>1,000</qtVenda><saldo>-1,000</saldo><vlCusto>286,2800</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19009</cdProduto><dsProduto>SEM. SOJA TMG 1066 RR P:6,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>19009</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>25,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>90,000</qtVenda><saldo>-65,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19052</cdProduto><dsProduto>STIMUCONTROL T-SOLO GL 5 LT</dsProduto><entreFutura>10,000</entreFutura><indice>19052</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-10,000</saldo><vlCusto>266,5790</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19060</cdProduto><dsProduto>A.CALSITE AGRIC. FAREL. SC</dsProduto><entreFutura>29,000</entreFutura><indice>19060</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>8,000</qtEstoque><qtVenda>374,000</qtVenda><saldo>-395,000</saldo><vlCusto>2,2426</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19061</cdProduto><dsProduto>A.CALSITE AGRIC. GRANUL. BAG</dsProduto><entreFutura>0,000</entreFutura><indice>19061</indice><nrProcesso>4028</nrProcesso><perMargem>91,77</perMargem><qtCompra>27,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>29,000</qtVenda><saldo>-2,000</saldo><vlCusto>115,2784</vlCusto><vlUnitario>1.400,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19062</cdProduto><dsProduto>A.CALSITE AGRIC. GRANUL. SC</dsProduto><entreFutura>10,000</entreFutura><indice>19062</indice><nrProcesso>4028</nrProcesso><perMargem>71,24</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>709,000</qtVenda><saldo>-719,000</saldo><vlCusto>20,1300</vlCusto><vlUnitario>70,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19115</cdProduto><dsProduto>SEM. SOJA TMG 1066 RR P:5,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>19115</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>38,000</qtVenda><saldo>-38,000</saldo><vlCusto>56,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19120</cdProduto><dsProduto>APROACH PRIMA LT</dsProduto><entreFutura>12,000</entreFutura><indice>19120</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>2,000</qtVenda><saldo>-14,000</saldo><vlCusto>640,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19137</cdProduto><dsProduto>SEM. MILHO AGROESTE 3421-Y</dsProduto><entreFutura>0,000</entreFutura><indice>19137</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>3,000</qtEstoque><qtVenda>11,000</qtVenda><saldo>-8,000</saldo><vlCusto>268,4213</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19138</cdProduto><dsProduto>CEFANOL PCT 2 KG</dsProduto><entreFutura>0,000</entreFutura><indice>19138</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>484,000</qtVenda><saldo>-484,000</saldo><vlCusto>52,5000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19148</cdProduto><dsProduto>FORQUIMICA PHOSMAN NEW GL 5 LT</dsProduto><entreFutura>40,000</entreFutura><indice>19148</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-40,000</saldo><vlCusto>55,1000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19152</cdProduto><dsProduto>FORQUIMICA POWER SEED PLUS LT</dsProduto><entreFutura>0,000</entreFutura><indice>19152</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>40,000</qtVenda><saldo>-40,000</saldo><vlCusto>144,9221</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19155</cdProduto><dsProduto>SIMBIOSE NOD SOJA  10 DS</dsProduto><entreFutura>82,000</entreFutura><indice>19155</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>21,000</qtVenda><saldo>-103,000</saldo><vlCusto>17,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19156</cdProduto><dsProduto>SIMBIOSE NOD SOJA TURFOSO 12 DS</dsProduto><entreFutura>82,000</entreFutura><indice>19156</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-82,000</saldo><vlCusto>8,0097</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19168</cdProduto><dsProduto>FERT.MINERAL ALLER BIW LT</dsProduto><entreFutura>0,000</entreFutura><indice>19168</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>45,000</qtVenda><saldo>-45,000</saldo><vlCusto>64,7100</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19170</cdProduto><dsProduto>MUSTANG 350 EC FRASCO</dsProduto><entreFutura>1,000</entreFutura><indice>19170</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-1,000</saldo><vlCusto>37,3221</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19172</cdProduto><dsProduto>SEM T PARDELA SC 40 KG</dsProduto><entreFutura>20,000</entreFutura><indice>19172</indice><nrProcesso>4028</nrProcesso><perMargem>5.376,47</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-20,000</saldo><vlCusto>-4.221,1770</vlCusto><vlUnitario>80,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19174</cdProduto><dsProduto>NEXIDE 150 CS 500 ML</dsProduto><entreFutura>30,000</entreFutura><indice>19174</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>1,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-29,000</saldo><vlCusto>59,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19201</cdProduto><dsProduto>SEM. MILHO BALU 188</dsProduto><entreFutura>0,000</entreFutura><indice>19201</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>13,000</qtVenda><saldo>-13,000</saldo><vlCusto>136,6031</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19320</cdProduto><dsProduto>APROACH PRIMA GL 5 LT</dsProduto><entreFutura>43,000</entreFutura><indice>19320</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>5,000</qtEstoque><qtVenda>251,000</qtVenda><saldo>-289,000</saldo><vlCusto>647,9035</vlCusto><vlUnitario>500,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>19495</cdProduto><dsProduto>ZIGNAL 500 SC GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>19495</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>8,000</qtVenda><saldo>-8,000</saldo><vlCusto>485,4197</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>20001</cdProduto><dsProduto>GRAMOXONE 200 GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>20001</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>173,000</qtVenda><saldo>-173,000</saldo><vlCusto>0,5200</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95891</cdProduto><dsProduto>SEM. SOJA TMG 7262 RR  P:5.5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95891</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>82,000</qtVenda><saldo>-82,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95893</cdProduto><dsProduto>SEM. SOJA BMX TORNADO P:5.5 SC 40KG</dsProduto><entreFutura>0,000</entreFutura><indice>95893</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>88,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>104,000</qtVenda><saldo>-16,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95894</cdProduto><dsProduto>SEM. SOJA BMX FORCA P:5.5 SC 40KG</dsProduto><entreFutura>0,000</entreFutura><indice>95894</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>30,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>47,000</qtVenda><saldo>-17,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95897</cdProduto><dsProduto>SEM. SOJA BRS 284 CONVENCIONAL PEN:6.5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95897</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>68,000</qtVenda><saldo>-68,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95902</cdProduto><dsProduto>A.04.30.10+MICRO</dsProduto><entreFutura>0,000</entreFutura><indice>95902</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>345,000</qtVenda><saldo>-345,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95904</cdProduto><dsProduto>A.06.30.06+MICRO</dsProduto><entreFutura>0,000</entreFutura><indice>95904</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>430,000</qtVenda><saldo>-430,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95905</cdProduto><dsProduto>A.MAP 11.52</dsProduto><entreFutura>0,000</entreFutura><indice>95905</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>80,000</qtVenda><saldo>-80,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95907</cdProduto><dsProduto>A.02.23.23+MICRO SC 50KG</dsProduto><entreFutura>0,000</entreFutura><indice>95907</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>200,000</qtVenda><saldo>-200,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95908</cdProduto><dsProduto>PREND-D 806 GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>95908</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>3,000</qtVenda><saldo>-3,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95909</cdProduto><dsProduto>GALIL SC GL 5 LT</dsProduto><entreFutura>19,000</entreFutura><indice>95909</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>60,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>52,000</qtVenda><saldo>-11,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95910</cdProduto><dsProduto>PRIORI XTRA LT</dsProduto><entreFutura>0,000</entreFutura><indice>95910</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>2,000</qtVenda><saldo>-2,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95912</cdProduto><dsProduto>TALISMAN LT</dsProduto><entreFutura>43,000</entreFutura><indice>95912</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>36,000</qtVenda><saldo>-79,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95916</cdProduto><dsProduto>FOX LT</dsProduto><entreFutura>0,000</entreFutura><indice>95916</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>105,000</qtVenda><saldo>-105,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95917</cdProduto><dsProduto>CROPSTAR LT</dsProduto><entreFutura>0,000</entreFutura><indice>95917</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>53,000</qtVenda><saldo>-53,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95918</cdProduto><dsProduto>A.00.28.00 HERINGER BAG</dsProduto><entreFutura>0,000</entreFutura><indice>95918</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>27,000</qtVenda><saldo>-27,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95923</cdProduto><dsProduto>A.00.46.00 SST BAG</dsProduto><entreFutura>16,000</entreFutura><indice>95923</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-16,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95936</cdProduto><dsProduto>A.04.30.10 BAG</dsProduto><entreFutura>31,000</entreFutura><indice>95936</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>0,000</qtVenda><saldo>-31,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95940</cdProduto><dsProduto>GAMIT GL 5 LT</dsProduto><entreFutura>0,000</entreFutura><indice>95940</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>12,000</qtVenda><saldo>-12,000</saldo><vlCusto>4.998,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95943</cdProduto><dsProduto>SEM. SOJA NIDERA 5959 RR I PRO P-5,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95943</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>20,000</qtVenda><saldo>-20,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95944</cdProduto><dsProduto>SEM. SOJA NIDERA 7000 RR I PRO P-6,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95944</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>12,000</qtVenda><saldo>-12,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95945</cdProduto><dsProduto>SEM. SOJA NIDERA 5445 RR I PRO P-6,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95945</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>7,000</qtVenda><saldo>-7,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95946</cdProduto><dsProduto>SEM. SOJA NIDERA 7237 RR I PRO P-6,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95946</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>6,000</qtVenda><saldo>-6,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95947</cdProduto><dsProduto>SEM. SOJA NIDERA 7300 RR I PRO P-5,5 SC 40 KG</dsProduto><entreFutura>0,000</entreFutura><indice>95947</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>7,000</qtVenda><saldo>-7,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95948</cdProduto><dsProduto>SEM. SOJA AS-3610 I PRO P-5,5</dsProduto><entreFutura>0,000</entreFutura><indice>95948</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>8,000</qtVenda><saldo>-8,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95949</cdProduto><dsProduto>SEM. SOJA BMX APOLO RR PEN: 5.5 40KG</dsProduto><entreFutura>0,000</entreFutura><indice>95949</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>365,000</qtVenda><saldo>-365,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+	<RelatorioEstoq><cdProduto>95950</cdProduto><dsProduto>A.00.18.00 HERINGER BAG</dsProduto><entreFutura>0,000</entreFutura><indice>95950</indice><nrProcesso>4028</nrProcesso><perMargem>0,00</perMargem><qtCompra>0,000</qtCompra><qtEstoque>0,000</qtEstoque><qtVenda>8,000</qtVenda><saldo>-8,000</saldo><vlCusto>0,0000</vlCusto><vlUnitario>0,0000</vlUnitario></RelatorioEstoq>
+
+</Instances>
