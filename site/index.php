@@ -19,7 +19,7 @@
 <div>&nbsp;</div>
 <table align="center" border="0">
 <tr>
-<td align="center"><img  id="bg" src="cagri.jpg" /></td>
+    <td align="center"><img  id="bg" src="/assets/img/cagri.jpg" /></td>
 </tr>
 <tr>
 <td align="center"><h1>contato@producerta.agr.br</h1></td>
