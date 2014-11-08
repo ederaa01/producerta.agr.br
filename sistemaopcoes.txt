@@ -1,0 +1,85 @@
+
+Imagine!
+	Um sistema escrito em uma linguagem moderna ( Java );
+	Os dados de sua empresa armazenados em um banco de dados robusto e seguro ( Caché);
+	Suporte sempre que precisar;
+	Alterações específicas no sistema que farão as transações de sua empresa serem mais seguras, mais rápidas, mais rentáveis;
+	Sistema que se atualiza automaticamente
+
+
+	Isso não é bom? mas se além disso sua empresa precisar:
+
+	atender SEAB
+		receituário agronômico
+		geração de arquivo do SIAGRO
+
+	atender legislação
+		nota fiscal eletrônica integrada ao sistema
+		SPED
+		arquivo dos xmls de venda e compra
+
+	gerenciar o financeiro totalmente e de forma integrada
+		bancos
+		caixa
+		contas a receber
+		cheques a receber
+		cheques devolvidos
+		contas a pagar
+		devolucoes de compra
+		devolucoes de venda
+		fluxo de caixa
+
+
+	gerenciar estoques
+		saldos disponíveis ( fisico / comprometido / a receber / fora da empresa )
+		estoque em vários locais / unidades
+		lotes a vencer
+		pedidos de compra
+		produtos em armazem de terceiros
+		produtos a entregar (trad. futura)
+		custo total do estoque por produto, grupo, subgrupo, fabricante, etc
+		valor total do estoque por produto, grupo, subgrupo, fabricante, etc
+
+	gerenciar pedidos de venda
+		por vendedor
+		por cidade
+		por cliente
+		faturamento parcial
+		multi-tabelas de preço
+		analise comercial ( se os preços e prazos praticados estão de acordo com politica da empresa)
+		analise de crédito
+		
+	gerenciar custos de reposição ( cmv )
+		contábil
+		gerencial ( pode se deduzir descontos por antecipação, bonificações, etc)
+
+	gerenciar vendas realizadas ( base valor de venda / base lucratividade )
+		melhores vendedores
+		melhores clientes
+		melhores produtos
+		planejamento de vendas por vendedor, produto, grupo, cliente, etc
+
+	gerenciar notas de compra
+		ciência,confirmação da operação e download do xml 
+		entradas em estoque via xml
+		contas a pagar, estoque e módulos co-relacionados todos atualizados de forma integrada
+
+		
+	gerenciar o negócio
+		lucro bruto
+		detalhamento das despesas em categorias, centro de custos
+		controle de custo de vendedor
+		controle de custo de frota
+		balanço patrimonial ( gerencial )
+
+	Agende uma apresentação sem compromisso, nossa parceria trará bons resultados a sua empresa. 
+	Teremos  prazer em tê-lo como parceiro.
+
+
+NEAX TECNOLOGIA.
+Av. Comendador Norberto Marcondes, 2945
+Campo Mourão - PR
+email@xxxx
+www.neaxtecnologia.com.br    (44) 3524 4886
+
+					
