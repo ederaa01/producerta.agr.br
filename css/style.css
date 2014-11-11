@@ -1,6 +1,9 @@
-@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css);
-@import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200,300);
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,600italic,400,300);
+/*@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css);*/
+@import "../css/font-awesome.min.css";
+/*@import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200,300);*/
+@import "../css/yanone.Kaffeesatz.css";
+/*@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,600italic,400,300);*/
+@import "../css/openSans.css";
 @import "../css/animate.css";
 /*========================================================
                     Main layout styles
