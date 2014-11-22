@@ -1,0 +1,7 @@
+iVega 1.1.0, 2014-10-13
+----------------------
+- Added alternative header option
+- Added working ajax contact form
+- Fixed main slideshow issue in Internet Explorer 11
+- Fixed flickering issue on page load in Internet Explorer 11
+- Fixed pricing tables popovers issue

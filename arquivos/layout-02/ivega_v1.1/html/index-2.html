@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>iVega | Home</title>
+		<meta name="description" content="iVega a Bootstrap-based, Responsive HTML5 Template">
+		<meta name="author" content="htmlcoder.me">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+
+		<!-- Bootstrap core CSS -->
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+		<!-- Font Awesome CSS -->
+		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+		<!-- Plugins -->
+		<link href="plugins/flexslider/flexslider.css" rel="stylesheet">
+		<link href="css/animations.css" rel="stylesheet">
+		<link href="plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+
+		<!-- iVega core CSS file -->
+		<link href="css/style.css" rel="stylesheet">
+
+		<!-- Color Scheme (In order to change the color scheme, replace the blue.css with the color scheme that you prefer)-->
+		<link href="css/skins/blue.css" rel="stylesheet">
+
+		<!-- Custom css --> 
+		<link href="css/custom.css" rel="stylesheet">	
+	</head>
+
+	<body class="front preload">
+		
+		<!-- page wrapper start (Add "boxed" class to page-wrapper in order to enable boxed layout mode) -->
+		<div class="page-wrapper">
+
+			<!-- scrollToTop start -->
+			<div class="scrollToTop"><i class="fa fa-angle-up"></i></div>
+			<!-- scrollToTop end -->
+
+			<!-- preheader start -->
+			<div class="preheader">
+				<div class="container">
+					<div class="preheader-content">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="space hidden" id="preheader-contactSuccess">
+									<strong>Success!</strong> Your message has been sent to us.
+								</div>
+								<div class="space hidden" id="preheader-contactError">
+									<strong>Error!</strong> There was an error sending your message.
+								</div>
+								<h2>Drop us a line</h2>
+								<div class="row">
+									<form role="form" id="preheader-contact-form">
+										<div class="col-md-6">
+											<div class="form-group name">
+												<label for="name3">Name*</label>
+												<input type="text" class="form-control" id="name3" placeholder="" name="name3">
+											</div>
+											<div class="form-group email">
+												<label for="email3">Email*</label>
+												<input type="email" class="form-control" id="email3" placeholder="" name="email3">
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="form-group message">
+												<label for="message3">Message*</label>
+												<textarea class="form-control" rows="5" id="message3" placeholder="" name="message3"></textarea>
+											</div>
+
+										</div>
+										<div class="col-md-12">
+											<input type="submit" value="Submit" class="btn btn-default">
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="trigger">
+					<a href="javascript:showPreHeader()" class="triangle"><i class="fa fa-plus"></i></a>
+				</div>
+			</div>
+			<!-- preheader end -->
+
+			<!-- header top start -->
+			<div class="header-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8">
+							<ul class="info">
+								<li><i class="fa fa-phone"></i> +30 123 456 7890</li>
+								<li><i class="fa fa-home"></i> One infity loop Av. 45658</li>
+								<li><i class="fa fa-envelope"></i> info@ivega.com</li>
+							</ul>
+						</div>
+						<div class="col-md-4">
+							<ul class="social-links text-right">
+								<li><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+								<li><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+								<li><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+								<li><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
+								<li><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+								<li><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- header top end -->
+
+			<!-- header start -->
+			<header class="header text-center">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="logo">
+								<a href="index.html"><img id="logo" src="images/logo_blue.png" alt="iVega"></a>
+							</div>
+							<div class="site-slogan">
+								Clean &amp; Modern HTML5 template
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<!-- header end -->
+
+			<!-- main-navigation start (remove fixed class from main-navigation in order to disable fixed navigation mode)-->
+			<div class="main-navigation fixed">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+
+							<!-- navbar start -->
+							<nav class="navbar navbar-default" role="navigation">
+
+								<!-- Toggle get grouped for better mobile display -->
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div>
+
+								<!-- Collect the nav links, forms, and other content for toggling -->
+								<div class="collapse navbar-collapse" id="navbar-collapse-1">
+									<ul class="nav navbar-nav navbar-main-menu">
+										<li class="dropdown active">
+											<a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+											<ul class="dropdown-menu">
+												<li><a href="index.html">Home - Slider 1</a></li>
+												<li><a href="index-2.html">Home - Slider 2</a></li>
+												<li><a href="index-3.html">Home - No Slider</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a href="page-about.html" class="dropdown-toggle" data-toggle="dropdown">About</a>
+											<ul class="dropdown-menu">
+												<li><a href="page-about.html">About Us</a></li>
+												<li><a href="page-team.html">Our Team</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
+											<ul class="dropdown-menu">
+												<li><a href="blog.html">Blog small images</a></li>
+												<li><a href="blog-2.html">Blog large images</a></li>
+												<li><a href="blog-no-sidebar.html">Blog - No Sidebars</a></li>
+												<li><a href="blog-post.html">Blog post</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a href="portfolio-full.html" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+											<ul class="dropdown-menu">
+												<li class="dropdown">
+													<a href="portfolio-full.html" class="dropdown-toggle" data-toggle="dropdown">Portfolio - Style 1</a>
+													<ul class="dropdown-menu">
+														<li><a href="portfolio-3col.html">Portfolio - 3 columns</a></li>
+														<li><a href="portfolio-4col.html">Portfolio - 4 columns</a></li>
+														<li><a href="portfolio-full.html">Portfolio - Full width</a></li>
+														<li><a href="portfolio-sidebar.html">Portfolio - With sidebar</a></li>
+													</ul>
+												</li>
+												<li class="dropdown">
+													<a href="portfolio-3col-2.html" class="dropdown-toggle" data-toggle="dropdown">Portfolio - Style 2</a>
+													<ul class="dropdown-menu">
+														<li><a href="portfolio-3col-2.html">Portfolio - 3 columns</a></li>
+														<li><a href="portfolio-4col-2.html">Portfolio - 4 columns</a></li>
+														<li><a href="portfolio-sidebar-2.html">Portfolio - With sidebar</a></li>
+													</ul>
+												</li>
+												<li><a href="portfolio-item.html">Portfolio single</a></li>
+												<li><a href="portfolio-item-2.html">Portfolio single 2</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a href="features-shortcodes.html" class="dropdown-toggle" data-toggle="dropdown">Features</a>
+											<ul class="dropdown-menu">
+												<li><a href="features-typography.html">Typography</a></li>
+												<li class="dropdown">
+													<a href="features-shortcodes.html" class="dropdown-toggle" data-toggle="dropdown">Shortcodes</a>
+													<ul class="dropdown-menu">
+														<li><a href="features-shortcodes.html#tabs">Tabs</a></li>
+														<li><a href="features-shortcodes.html#collapse">Accordion</a></li>
+														<li><a href="features-shortcodes.html#social-icons">Social Icons</a></li>
+														<li><a href="features-shortcodes.html#buttons">Buttons</a></li>
+														<li><a href="features-shortcodes.html#progress-bars">Progress Bars</a></li>
+														<li><a href="features-shortcodes.html#basic-slideshow">Basic Slideshow</a></li>
+														<li><a href="features-shortcodes.html#icon-boxes">Icon Boxes</a></li>
+														<li><a href="features-shortcodes.html#image-boxes">Images Boxes</a></li>
+														<li><a href="features-shortcodes.html#animations">Animations</a></li>
+														<li><a href="features-shortcodes.html#tables">Tables</a></li>
+													</ul>
+												</li>
+												<li><a href="features-pricing-tables.html">Pricing tables</a></li>
+												<li><a href="features-header-2.html">Alternative Header</a></li>
+												<li><a href="features-footers.html">Footer Options</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
+											<ul class="dropdown-menu">
+												<li><a href="page-contact.html">Contact</a></li>
+												<li><a href="page-team.html">Our team</a></li>
+												<li><a href="page-services.html">Services</a></li>
+												<li><a href="page-404.html">404 error</a></li>
+												<li><a href="page-left-sidebar.html">Left Sidebar</a></li>
+												<li><a href="page-right-sidebar.html">Right Sidebar</a></li>
+												<li><a href="page-two-sidebars.html">Two Sidebars</a></li>
+												<li><a href="page-no-sidebar.html">No Sidebars</a></li>
+											</ul>
+										</li>
+									</ul>
+									<ul class="nav navbar-nav navbar-right navbar-symbols">
+										<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+											<ul class="dropdown-menu animated fadeInDownSmall">
+												<li>
+													<form role="search">
+														<div class="form-group search">
+															<input type="text" class="form-control" placeholder="Search">
+														</div>
+													</form>
+												</li>
+											</ul>
+											<div class="vertical-div hidden-xs"></div>
+										</li>
+										<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-lock"></i></a>
+											<ul class="dropdown-menu animated fadeInDownSmall">
+												<li>
+													<form class="login-form">
+														<div class="form-group name">
+															<input type="text" class="form-control" placeholder="username">
+														</div>
+														<div class="form-group password">
+															<input type="text" class="form-control" placeholder="password">
+														</div>
+														<button type="submit" class="btn btn-gray">Log In</button>
+														<span>or</span>
+														<button type="submit" class="btn btn-gray btn-default">Sing Up</button>
+														<ul>
+															<li><a href="#">Forgot your password?</a></li>
+														</ul>
+														<div class="divider"></div>
+														<span class="text-center">Login with</span>
+														<a href="#" class="btn btn-symb btn-facebook"> <i class="fa fa-facebook"></i></a>
+														<a href="#" class="btn btn-symb btn-twitter"> <i class="fa fa-twitter"></i></a>
+														<a href="#" class="btn btn-symb btn-googleplus"> <i class="fa fa-google-plus"></i></a>
+													</form>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</nav>
+							<!-- navbar end -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- main-navigation end -->
+
+			<!-- banner start -->
+			<div class="banner bordered">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+
+							<!-- slideshow start -->
+							<div class="slideshow boxed-slideshow">
+
+								<!-- flexslider start -->
+								<div class="flexslider">
+									<ul class="slides">
+
+										<!-- first slide start -->
+										<li>
+											<a href="features-shortcodes.html"><img src="images/slider-2-slide-1.png" alt="slide 1"></a>
+											<div class="caption">
+												<h1>iVega Premium Template</h1>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet.</p>
+											</div>
+										</li>
+										<!-- first slide end -->
+
+										<!-- second slide start -->
+										<li>
+											<a href="portfolio-full.html"><img src="images/slider-2-slide-2.png" alt="slide 2"></a>
+											<div class="caption">
+												<h1>Very Flexible</h1>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+											</div>
+										</li>
+										<!-- second slide end -->
+
+										<!-- third slide start -->
+										<li>
+											<a href="portfolio-item.html"><img src="images/slider-2-slide-3.png" alt="slide 3"></a>
+											<div class="caption">
+												<h1>Need more?</h1>
+												<p>Lorem consectetur adipisicing elit.</p>
+											</div>
+										</li>
+										<!-- third slide end -->
+
+									</ul>
+								</div>
+								<!-- flexslider end -->
+
+							</div>
+							<!-- slideshow end -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- banner end -->
+
+			<!-- main start -->
+			<section class="main">
+
+				<!-- section start -->
+				<div class="section">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<h1 class="text-center">What We Offer</h1>
+								<div class="separator"></div>
+								<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="icon-box">
+											<i class="fa fa-arrows-alt object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0"></i>
+											<h2>Pellentesque fermentu.</h2>
+											<p>Voluptatem ad provident non repudiandae veritatis beatae cupiditate amet reiciendis.</p>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="icon-box">
+											<i class="fa fa-laptop object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200"></i>
+											<h2>Pellentesque fermentu.</h2>
+											<p>Iure sequi unde hic. Sapiente quaerat labore sequi inventore veritatis cumque.</p>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="icon-box">
+											<i class="fa fa-sitemap object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="400"></i>
+											<h2>Pellentesque fermentu.</h2>
+											<p>Inventore dolores aut laboriosam cum consequuntur delectus sequi! Eum est.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- section end -->
+
+				<!-- section start -->
+				<div class="section bg-color-light">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<img class="img-responsive center-block" src="images/section-image-1.png" alt="iVega">
+							</div>
+							<div class="col-md-6">
+								<h2>Nulla luctus ipsum vel lorem venenatis</h2>
+								<p class="space">Sed eget pulvinar quam, vel feugiat enim. Aliquam erat volutpat. Phasellus eu porta ipsum. Suspendisse aliquet imperdiet commodo. Aenean vel lacinia elit. Class aptent taciti sociosqu ad litora torquent per. Vestibulum velmo.</p>
+								<a href="page-about.html" class="btn btn-default btn-lg">Learn More</a>
+							</div>
+						</div>
+					</div>
+					<br>
+					<br>
+					<br>
+					<div class="bg-color-gray call-to-action">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-8">
+									<h2 class="text-center">We offer more, to meet your every need!</h2>
+								</div>
+								<div class="col-md-4 text-center">
+									<a href="#" class="btn btn-lg btn-white">Purchase</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+					<br>
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-desktop"></i>
+									<h3>100% Responsive Design</h3>
+									<p>Rerum voluptatem facilis repellat</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-bold"></i>
+									<h3>Bootstrap Based</h3>
+									<p>Iure sequi unde hic. Sapiente quae</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-leaf"></i>
+									<h3>Clean &amp; powerful code</h3>
+									<p>Inventore dolores aut laboriosam</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-html5"></i>
+									<h3>HTML5/CSS3</h3>
+									<p>Rerum voluptatem facilis repellat</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-rocket"></i>
+									<h3>Font Awesome Icons</h3>
+									<p>Iure sequi unde hic. Sapiente quae</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="icon-box-2 clearfix">
+									<i class="fa fa-file-o"></i>
+									<h3> Well Documented</h3>
+									<p>Inventore dolores aut laboriosam</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+				</div>
+				<!-- section end -->
+
+				<!-- section start -->
+				<div class="section pb-clear">
+					<h1 class="text-center">Latest Projects</h1>
+					<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Voluptatum, eius, accusantium, inventore, in tempora alias ea</p>
+					<div class="img-boxes owl-carousel carousel">
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-1.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-2.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-3.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-4.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-5.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-6.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-7.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+						<a href="portfolio-item.html" class="mask-wrapper">
+							<img src="images/portfolio-8.jpg" alt="">
+							<div class="mask">
+								<p>Lorem ipsum dolor sit amet</p>
+								<span>web desing</span>
+								<span class="triangle"><i class="fa fa-link"></i></span>
+							</div>
+						</a>
+					</div>
+				</div>
+				<!-- section end -->
+
+				<!-- section start -->
+				<div class="section pb-clear pt-clear">
+					<div class="testimonials parallax">
+
+						<!-- flexslider start -->
+						<div class="flexslider">
+							<ul class="slides">
+								<li>
+									<div class="container">
+										<div class="row">
+											<div class="col-md-12">
+												<div class="testimonial">
+													<img src="images/testimonial-1.png" alt="">
+													<blockquote>
+														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, ratione, nostrum amet saepe eum impedit adipisci inventore quisquam esse quasi reprehenderit quaerat.</p>
+													</blockquote>
+													<p class="author">-Lorem Ipsum, The Company</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="container">
+										<div class="row">
+											<div class="col-md-12">
+												<div class="testimonial">
+													<img src="images/testimonial-2.png" alt="">
+													<blockquote>
+														<p>Vero, facilis, doloremque, voluptate, ab quisquam provident officia minima dolores perferendis quibusdam laborum.</p>
+													</blockquote>
+													<p class="author">-Uisquam Esse Quasi, The Big Company</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="container">
+										<div class="row">
+											<div class="col-md-12">
+												<div class="testimonial">
+													<img src="images/testimonial-3.png" alt="">
+													<blockquote>
+														<p>Sit totam saepe natus ratione perspiciatis consequatur nam doloribus hic quaerat illum at animi accusantium.</p>
+													</blockquote>
+													<p class="author">-Maria Doe, The Company</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<!-- flexslider end -->
+
+					</div>
+				</div>
+				<!-- section end -->
+
+				<!-- section start -->
+				<div class="section">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<h1 class="text-center">Why Choose Us</h1>
+								<div class="separator"></div>
+								<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, voluptas, obcaecati <br> cumque ad voluptatibus molestiae minus architecto voluptatum provident.</p>
+								<br>
+								<div class="row">
+									<div class="col-md-6 col-md-push-6">
+										<img class="img-responsive center-block pb object-non-visible" data-animation-effect="fadeInUpSmall" src="images/section-image-2.png" alt="iVega">
+									</div>
+									<div class="col-md-6 col-md-pull-6">
+										<h3>Uspendisse id sem elementum condimentum lorem</h3>
+										<p>Sed eget pulvinar quam, vel feugiat enim. Aliquam erat volutpat. Phasellus eu porta ipsum. Suspendisse aliquet imperdiet commodo. Aenean vel lacinia elit. Class aptent taciti sociosqu ad litora torquent per. Vestibulum velmo.</p>
+										<ul class="list-triangle">
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall">Etiam sed dolor ac diam volutpat </li>
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100">Sed eget pulvinar quam, vel feugiat enim aliquam </li>
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">Erat volutpat. Phasellus eu porta ipsum suspendisse aliquet imperdiet </li>
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="300">Phasellus eu porta ipsum. Suspendisse aliquet imperdiet commodo </li>
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="300">Quas voluptas obcaecati.</li>
+											<li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="300">aliquet imperdiet commodo.</li>
+										</ul>
+										<a href="page-about.html" class="btn btn-white btn-lg object-non-visible" data-animation-effect="flipInX"  data-effect-delay="200">Learn More</a>
+									</div>
+								</div>
+								<br>
+								<hr>
+								<h1 class="text-center space-top">Skills &amp; Stats</h1>
+								<div class="separator"></div>
+								<p class="text-center">Incidunt, mollitia, laboriosam, officiis adipisci ipsum ipsam ab ducimus dolor <br> omnis facere minus vero illo officia commodi voluptatem voluptate aliquam dicta suscipit.</p>
+								<div class="row">
+									<div class="col-md-6">
+										<div class="space-top space-bottom">
+											<h4>HTML5</h4>
+											<div class="progress">
+												<div class="progress-bar progress-bar-default" role="progressbar" data-animate-width="80%">
+													<span class="object-non-visible" data-animation-effect="fadeInLeftBig" data-effect-delay="700">80%</span>
+												</div>
+											</div>
+											<h4>CSS3</h4>
+											<div class="progress">
+												<div class="progress-bar progress-bar-default" role="progressbar" data-animate-width="90%">
+													<span class="object-non-visible" data-animation-effect="fadeInLeftBig" data-effect-delay="700">90%</span>
+												</div>
+											</div>
+											<h4>JQUERY</h4>
+											<div class="progress">
+												<div class="progress-bar progress-bar-default" role="progressbar" data-animate-width="75%">
+													<span class="object-non-visible" data-animation-effect="fadeInLeftBig" data-effect-delay="700">75%</span>
+												</div>
+											</div>
+											<h4>PHP</h4>
+											<div class="progress">
+												<div class="progress-bar progress-bar-default" role="progressbar" data-animate-width="85%">
+													<span class="object-non-visible" data-animation-effect="fadeInLeftBig" data-effect-delay="700">85%</span>
+												</div>
+											</div>
+											<h4>DESIGN</h4>
+											<div class="progress">
+												<div class="progress-bar progress-bar-default" role="progressbar" data-animate-width="80%">
+													<span class="object-non-visible" data-animation-effect="fadeInLeftBig" data-effect-delay="700">80%</span>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="stats">
+											<div class="stat-box bt-clear">
+												<i class="fa fa-cloud-download"></i>
+												<h5>downloads</h5>
+												<span data-to="1525" data-speed="3000">0</span>
+											</div>
+											<div class="stat-box bt-clear br-clear">
+												<i class="fa fa-user"></i>
+												<h5>Users</h5>
+												<span data-to="2651" data-speed="3000">0</span>
+											</div>
+											<div class="stat-box">
+												<i class="fa fa-briefcase"></i>
+												<h5>purchases</h5>
+												<span data-to="1320" data-speed="3000">0</span>
+											</div>
+											<div class="stat-box br-clear">
+												<i class="fa fa-thumbs-o-up"></i>
+												<h5>likes</h5>
+												<span data-to="3509" data-speed="3000">0</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- section end -->
+
+			</section>
+			<!-- main end -->
+
+			<!-- footer start -->
+			<footer>
+
+				<!-- .footer start -->
+				<div class="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-4">
+								<div class="footer-content">
+									<div class="logo-footer"><img id="logo-footer" src="images/logo_blue_footer.png" alt=""></div>
+									<p>Lorem ipsum dolor sit amet, consect tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven. Lorem ipsum dolor sit amet elit.</p>
+									<ul class="info">
+										<li><i class="fa fa-map-marker"></i> One infinity loop, 54100</li>
+										<li><i class="fa fa-phone"></i> +00 1234567890 &amp; +00 1234567891 </li>
+										<li><i class="fa fa-envelope-o"></i> info@ivega.com</li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="footer-content">
+									<h2>Latest tweets</h2>
+									<ul class="tweets">
+										<li>
+											<i class="fa fa-twitter"></i>
+											<p><a href="#">@lorem</a> ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, aliquid, et molestias nesciunt <a href="#">http://t.co/dzLEYGeEH9</a>.</p><span>16 hours ago</span>
+										</li>
+										<li>
+											<i class="fa fa-twitter"></i>
+											<p><a href="#">@lorem</a> ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, aliquid, et molestias nesciunt <a href="#">http://t.co/dzLEYGeEH9</a>.</p><span>16 hours ago</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="footer-content">
+									<h2>Latest Projects</h2>
+									<div class="gallery row">
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-1.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-2.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-3.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-4.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-5.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-6.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-7.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-8.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+										<div class="gallery-item col-xs-4">
+											<a href="portfolio-item.html" class="mask-wrapper">
+												<img src="images/gallery-9.jpg" alt="">
+												<span class="mask"><span class="small triangle"><i class="fa fa-link"></i></span></span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- .footer end -->
+
+				<!-- .subfooter start -->
+				<div class="subfooter">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-4">
+								<p>Copyright © 2014 iVega. All Rights Reserved</p>
+							</div>
+							<div class="col-md-8">
+								<nav class="navbar navbar-default" role="navigation">
+									<!-- Toggle get grouped for better mobile display -->
+									<div class="navbar-header">
+										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2">
+											<span class="sr-only">Toggle navigation</span>
+											<span class="icon-bar"></span>
+											<span class="icon-bar"></span>
+											<span class="icon-bar"></span>
+										</button>
+									</div>
+									<div class="collapse navbar-collapse" id="navbar-collapse-2">
+										<ul class="nav navbar-nav">
+											<li><a href="index.html">Home</a></li>
+											<li><a href="page-about.html">About</a></li>
+											<li><a href="blog.html">Blog</a></li>
+											<li><a href="portfolio-full.html">Portfolio</a></li>
+											<li><a href="page-contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- .subfooter end -->
+
+			</footer>
+			<!-- footer end -->
+		
+		</div>
+		<!-- page wrapper end -->
+
+		<!-- JavaScript files placed at the end of the document so the pages load faster
+		================================================== -->
+		<!-- Jquery and Bootstap core js files -->
+		<script type="text/javascript" src="plugins/jquery.min.js"></script>
+		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Modernizr javascript -->
+		<script type="text/javascript" src="plugins/modernizr.js"></script>
+
+		<!-- Flexslider javascript -->
+		<script type="text/javascript" src="plugins/flexslider/jquery.flexslider.js"></script>
+
+		<!-- Owl carousel javascript -->
+		<script type="text/javascript" src="plugins/owl-carousel/owl.carousel.js"></script>
+
+		<!-- Magnific Popup javascript -->
+		<script type="text/javascript" src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+		<!-- Appear javascript -->
+		<script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+		<!-- Count To javascript -->
+		<script type="text/javascript" src="plugins/jquery.countTo.js"></script>
+		
+		<!-- Parallax javascript -->
+		<script src="plugins/jquery.parallax-1.1.3.js"></script>
+
+		<!-- Flowtype javascript -->
+		<script type="text/javascript" src="plugins/flowtype.js"></script>
+
+		<!-- Contact form -->
+		<script src="plugins/jquery.validate.js"></script>
+
+		<!-- Initialization of Plugins -->
+		<script type="text/javascript" src="js/template.js"></script>
+
+	</body>
+</html>
