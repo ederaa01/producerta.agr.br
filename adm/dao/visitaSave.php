@@ -1,7 +1,6 @@
 <?php
 
 function visitaSave($page) {
-    if (1 == 0) {
         require_once 'adm/class/Session.class.php';
         $sid = new Session;
         require_once 'adm/database/mysql.php';
@@ -25,6 +24,5 @@ function visitaSave($page) {
         }
         $db->query('insert into visitaspage (sequencia,idVisita,pagina,dataHora) values (NULL,' . $sid->getNode("idVisita") . ',"' . $page . '","' . $date . '")');
     }
-}
 
 ?>

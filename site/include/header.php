@@ -64,7 +64,7 @@
                 <ul class="social-links text-right">
                     <li><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
                     <li><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-                    <li><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a target="_blank" href="https://plus.google.com/109355775468624735098/about?gl=br&hl=pt-BR"><i class="fa fa-google-plus"></i></a></li>
                     <li><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
                     <li><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
                     <li><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>

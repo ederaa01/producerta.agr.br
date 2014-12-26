@@ -108,7 +108,7 @@
                             <ul class="social">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a href="https://plus.google.com/109355775468624735098/about?gl=br&hl=pt-BR"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="skype:producerta?call"><i class="fa fa-skype"></i></a></li>
